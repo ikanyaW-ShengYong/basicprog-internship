@@ -1,0 +1,20 @@
+﻿  Q9.cpp
+C:\Users\Asus\Desktop\Internship\Q9.cpp(2,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Asus\Desktop\Internship\Q9.cpp(2,8): error C2146: syntax error: missing ';' before identifier 'java'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(3,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Asus\Desktop\Internship\Q9.cpp(3,1): error C2086: 'int import': redefinition
+C:\Users\Asus\Desktop\Internship\Q9.cpp(2,1): message : see declaration of 'import'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(3,8): error C2146: syntax error: missing ';' before identifier 'java'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(6,13): error C2146: syntax error: missing ':' before identifier 'Map'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(6,52): error C2238: unexpected token(s) preceding ';'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(8,12): error C2146: syntax error: missing ':' before identifier 'Graph'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(8,20): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Asus\Desktop\Internship\Q9.cpp(12,12): error C2062: type 'void' unexpected
+C:\Users\Asus\Desktop\Internship\Q9.cpp(12,45): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Asus\Desktop\Internship\Q9.cpp(16,12): error C2146: syntax error: missing ':' before identifier 'boolean'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(16,80): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Asus\Desktop\Internship\Q9.cpp(62,1): error C2059: syntax error: 'public'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(62,8): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\Asus\Desktop\Internship\Q9.cpp(62,17): error C2059: syntax error: '{'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(62,17): error C2143: syntax error: missing ';' before '{'
+C:\Users\Asus\Desktop\Internship\Q9.cpp(62,17): error C2447: '{': missing function header (old-style formal list?)
